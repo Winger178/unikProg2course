@@ -1,0 +1,6 @@
+﻿  homeworkProg.cpp
+C:\Users\Alexey\source\repos\homeworkProg\homeworkProg.cpp(17,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Alexey\source\repos\homeworkProg\homeworkProg.cpp(48,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Alexey\source\repos\homeworkProg\homeworkProg.cpp(72,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Alexey\source\repos\homeworkProg\homeworkProg.cpp(77,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  homeworkProg.vcxproj -> C:\Users\Alexey\source\repos\homeworkProg\x64\Debug\homeworkProg.exe
